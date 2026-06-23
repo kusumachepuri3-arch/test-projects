@@ -3,3 +3,7 @@ TC001 - Verify login with valid credentials
 TC002 - Verify login with invalid password
 
 TC003 - Verify login with empty username
+
+TC004 - Verify password masking
+
+TC005 - Verify Remember Me functionality
